@@ -12,3 +12,4 @@ This the the odin's project one. This project is for me to demostrate some of th
 ## About Recipes
 - Watermelon Lemonade Slush is by Terri Myers on [allrecipes](allrecipes.com)
 - Chocolate Chips Cookies recipe is by Jeanes on [allrecipes](allrecipes.com)
+- MEatloaf recipe by PTRULL on [allrecipes](allrecipes.com)
